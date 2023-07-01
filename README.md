@@ -6,7 +6,7 @@
 
 ## Backend Skills :
 
-✨ Here are the skills Backend 🚀 I use in my GitHub projects. ...
+✨ Here are the skills Backend 🚀 I use in my GitHub projects....
 
 - **Languages**: 💻 C, C#, PHP, Python, Java, Ruby, .NET
 - **Frameworks and libraries**: 🌐 Laravel, Symfony, Spring Boot, Flask, Django, Ruby on Rails, ASP.NET
@@ -26,17 +26,34 @@
 - **Web application server**: 🌐 Wamp, Xampp, Mamp, Express
 - **Mobile Application**: Ionic, React Native, Flutter 📱
 
-Check out my GitHub projects to see how I've used these technologies!
+## Project Manager :
+
+✨ Here are the skills Project Manager 👨‍💼🚀 I use in my GitHub projects. ...
+  
+- Agile Project Management 🔄📈
+- Scrum Master 📋✅
+- Kanban Methodology 📊🔢
+- Team Collaboration and Leadership 🤝👥
+- Stakeholder Management 🗣️👥
+- Risk Assessment and Mitigation 🚧🔍
+- Project Planning and Scheduling 📅🗓️
+- Budgeting and Resource Allocation 💰📊
+- Communication and Documentation 📝✉️
+- Conflict Resolution and Problem-solving ⚖️🔍
+- Quality Assurance and Process Improvement 🧪📈
+
+Feel free to explore my GitHub repositories to see the projects I've managed and the methodologies I've implemented. Let's connect and discuss project management strategies and best practices! 😊🚀 Check out my GitHub projects to see how I've used these technologies!
 
 If you have any further questions, please don't hesitate to ask.
 
 - 💞️ If you're interested in collaborating on any projects related to the technologies mentioned in the README.md, please let me know specifically which areas or projects you'd like to work on. Additionally, if you have any specific ideas or goals in mind, feel free to share them so we can discuss further and explore potential collaboration opportunities.
 
 - 📫 If you're interested in working with me, You can contact me through the following channels:
+  
+- Email: gendikutech@gmail.com
+- LinkedIn: @gendikutech
+- Twitter: @gendikutech
 
-. Email: gendikutech@gmail.com
-. LinkedIn: @gendikutech
-. Twitter: @gendikutech
 
 
 <!---
