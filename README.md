@@ -34,7 +34,7 @@ If you have any further questions, please don't hesitate to ask.
 
 - 📫 If you're interested in working with me, You can contact me through the following channels:
 
-. Email: endikutech@gmail.com
+. Email: gendikutech@gmail.com
 . LinkedIn: @gendikutech
 . Twitter: @gendikutech
 
