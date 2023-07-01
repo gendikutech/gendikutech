@@ -33,6 +33,7 @@ If you have any further questions, please don't hesitate to ask.
 - 💞️ If you're interested in collaborating on any projects related to the technologies mentioned in the README.md, please let me know specifically which areas or projects you'd like to work on. Additionally, if you have any specific ideas or goals in mind, feel free to share them so we can discuss further and explore potential collaboration opportunities.
 
 - 📫 If you're interested in working with me, You can contact me through the following channels:
+
 . Email: endikutech@gmail.com
 . LinkedIn: @gendikutech
 . Twitter: @gendikutech
